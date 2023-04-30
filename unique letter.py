@@ -4,7 +4,6 @@ list1 = []
 for i in str1:
     if i not in list1:
         list1.append(i)
-print(list1)
 for x in range(len(list1)):
     if x != len(list1) - 1:
         print(list1[x],end = ",")
