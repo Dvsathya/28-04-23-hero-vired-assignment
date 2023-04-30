@@ -10,3 +10,4 @@ for x in range(len(list1)):
         print(list1[x],end = ",")
     else:
         print(list1[x])
+#printing of unique letters
